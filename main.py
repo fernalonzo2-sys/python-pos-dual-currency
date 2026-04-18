@@ -60,6 +60,7 @@ combos={"cmbduog":{"desc":"Combo Duo Grande","dolar":12.50,"bs":(12.50*dolar)},
 carrito=[]
 
 while True:
+    print('cmbduog||cmbduom||cmbindiv||cmbpop||cmbenamorado')
     seleccion=str(input("\nSeleccione un combo:")).lower()
     
     if seleccion in combos:
