@@ -22,4 +22,4 @@ A command-line Point of Sale terminal built in Python. This system is designed f
 ## ⚙️ Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone [https://github.com/fernalonzo2-sys/python-pos-dual-currency.git](https://github.com/fernalonzo2-sys/python-pos-dual-currency.git)
